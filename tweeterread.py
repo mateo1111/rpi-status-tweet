@@ -31,7 +31,7 @@ czas = datetime.now().strftime('%Y-%m-%d %H')
 
 
 
-output = api.get_user_timeline(screen_name="NaScotchMe", count="2")
+output = api.get_user_timeline(screen_name="**yourtwittername**", count="2")
 
 
 textlist=[]
